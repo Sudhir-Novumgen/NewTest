@@ -1,2 +1,0 @@
-# NewTest
-Attendance tracker app
